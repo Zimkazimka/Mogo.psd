@@ -1,0 +1,2 @@
+# Mogo.psd
+self training
