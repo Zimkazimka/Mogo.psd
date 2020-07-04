@@ -1,2 +1,2 @@
 # Mogo.psd
-self training
+duda
