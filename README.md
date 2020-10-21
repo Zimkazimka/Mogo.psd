@@ -1,2 +1,1 @@
-# Mogo.psd
-self training
+zimkazimka.github.io/Mogo.psd/
