@@ -1,1 +1,1 @@
-zimkazimka.github.io/Mogo.psd/
+https://zimkazimka.github.io/Mogo.psd/
